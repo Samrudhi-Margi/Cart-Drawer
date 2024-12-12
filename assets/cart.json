@@ -1,0 +1,248 @@
+{
+    "main_image": "https://cdn.shopify.com/s/files/1/0883/2188/4479/files/newimage_8cf81a96-d590-46a0-bd86-84cadebf1e49.webp?v=1733470002",
+    "product_list": [
+        {
+            "id": 7473414012997,
+            "title": "Beginner's Guide to Snowboarding DVD",
+            "handle": "beginners-guide-to-snowboarding-dvd",
+            "description": "",
+            "published_at": "2024-12-06T00:57:42-05:00",
+            "created_at": "2024-12-06T00:57:42-05:00",
+            "vendor": "b06E-arijit",
+            "type": "",
+            "tags": [
+                "shop_the_look"
+            ],
+            "price": 55000,
+            "price_min": 55000,
+            "price_max": 55000,
+            "available": true,
+            "price_varies": false,
+            "compare_at_price": null,
+            "compare_at_price_min": 0,
+            "compare_at_price_max": 0,
+            "compare_at_price_varies": false,
+            "variants": [
+                {
+                    "id": 42198298787909,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "name": "Beginner's Guide to Snowboarding DVD",
+                    "public_title": null,
+                    "options": [
+                        "Default Title"
+                    ],
+                    "price": 55000,
+                    "weight": 800,
+                    "compare_at_price": null,
+                    "inventory_management": "shopify",
+                    "barcode": "",
+                    "requires_selling_plan": false,
+                    "selling_plan_allocations": [],
+                    "quantity_rule": {
+                        "min": 1,
+                        "max": null,
+                        "increment": 1
+                    }
+                }
+            ],
+            "images": [
+                "//b06e-arijit.myshopify.com/cdn/shop/files/3igloo-products_2e4db729-f984-4ea1-9a29-8ead329ef8dd.jpg?v=1733464413"
+            ],
+            "featured_image": "//b06e-arijit.myshopify.com/cdn/shop/files/3igloo-products_2e4db729-f984-4ea1-9a29-8ead329ef8dd.jpg?v=1733464413",
+            "options": [
+                "Title"
+            ],
+            "media": [
+                {
+                    "alt": null,
+                    "id": 27903431016517,
+                    "position": 1,
+                    "preview_image": {
+                        "aspect_ratio": 0.742,
+                        "height": 718,
+                        "width": 533,
+                        "src": "//b06e-arijit.myshopify.com/cdn/shop/files/3igloo-products_2e4db729-f984-4ea1-9a29-8ead329ef8dd.jpg?v=1733464413"
+                    },
+                    "aspect_ratio": 0.742,
+                    "height": 718,
+                    "media_type": "image",
+                    "src": "//b06e-arijit.myshopify.com/cdn/shop/files/3igloo-products_2e4db729-f984-4ea1-9a29-8ead329ef8dd.jpg?v=1733464413",
+                    "width": 533
+                }
+            ],
+            "requires_selling_plan": false,
+            "selling_plan_groups": [],
+            "content": ""
+        },
+        {
+            "id": 7473414406213,
+            "title": "High-Performance Snow Goggles",
+            "handle": "high-performance-snow-goggles",
+            "description": "",
+            "published_at": "2024-12-06T01:00:11-05:00",
+            "created_at": "2024-12-06T01:00:11-05:00",
+            "vendor": "b06E-arijit",
+            "type": "",
+            "tags": [
+                "shop_the_look"
+            ],
+            "price": 5600,
+            "price_min": 5600,
+            "price_max": 5600,
+            "available": true,
+            "price_varies": false,
+            "compare_at_price": 8000,
+            "compare_at_price_min": 8000,
+            "compare_at_price_max": 8000,
+            "compare_at_price_varies": false,
+            "variants": [
+                {
+                    "id": 42198299148357,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "name": "High-Performance Snow Goggles",
+                    "public_title": null,
+                    "options": [
+                        "Default Title"
+                    ],
+                    "price": 5600,
+                    "weight": 100,
+                    "compare_at_price": 8000,
+                    "inventory_management": "shopify",
+                    "barcode": "",
+                    "requires_selling_plan": false,
+                    "selling_plan_allocations": [],
+                    "quantity_rule": {
+                        "min": 1,
+                        "max": null,
+                        "increment": 1
+                    }
+                }
+            ],
+            "images": [
+                "//b06e-arijit.myshopify.com/cdn/shop/files/Untitled-2_2733bd73-c5cb-4d80-8d84-9cbae3db4a3f.jpg?v=1733464743"
+            ],
+            "featured_image": "//b06e-arijit.myshopify.com/cdn/shop/files/Untitled-2_2733bd73-c5cb-4d80-8d84-9cbae3db4a3f.jpg?v=1733464743",
+            "options": [
+                "Title"
+            ],
+            "media": [
+                {
+                    "alt": null,
+                    "id": 27903436095557,
+                    "position": 1,
+                    "preview_image": {
+                        "aspect_ratio": 0.742,
+                        "height": 718,
+                        "width": 533,
+                        "src": "//b06e-arijit.myshopify.com/cdn/shop/files/Untitled-2_2733bd73-c5cb-4d80-8d84-9cbae3db4a3f.jpg?v=1733464743"
+                    },
+                    "aspect_ratio": 0.742,
+                    "height": 718,
+                    "media_type": "image",
+                    "src": "//b06e-arijit.myshopify.com/cdn/shop/files/Untitled-2_2733bd73-c5cb-4d80-8d84-9cbae3db4a3f.jpg?v=1733464743",
+                    "width": 533
+                }
+            ],
+            "requires_selling_plan": false,
+            "selling_plan_groups": [],
+            "content": ""
+        },
+        {
+            "id": 7473413390405,
+            "title": "Water-Resistant Snow Hoodie",
+            "handle": "water-resistant-snow-hoodie",
+            "description": "",
+            "published_at": "2024-12-06T00:51:42-05:00",
+            "created_at": "2024-12-06T00:51:42-05:00",
+            "vendor": "b06E-arijit",
+            "type": "",
+            "tags": [
+                "shop_the_look"
+            ],
+            "price": 29980,
+            "price_min": 29980,
+            "price_max": 29980,
+            "available": true,
+            "price_varies": false,
+            "compare_at_price": null,
+            "compare_at_price_min": 0,
+            "compare_at_price_max": 0,
+            "compare_at_price_varies": false,
+            "variants": [
+                {
+                    "id": 42198295314501,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "name": "Water-Resistant Snow Hoodie",
+                    "public_title": null,
+                    "options": [
+                        "Default Title"
+                    ],
+                    "price": 29980,
+                    "weight": 400,
+                    "compare_at_price": null,
+                    "inventory_management": "shopify",
+                    "barcode": "",
+                    "requires_selling_plan": false,
+                    "selling_plan_allocations": [],
+                    "quantity_rule": {
+                        "min": 1,
+                        "max": null,
+                        "increment": 1
+                    }
+                }
+            ],
+            "images": [
+                "//b06e-arijit.myshopify.com/cdn/shop/files/1igloo-products_1d2bf0a1-9d87-4247-bc8a-0557d3f6a9fd.jpg?v=1733464201"
+            ],
+            "featured_image": "//b06e-arijit.myshopify.com/cdn/shop/files/1igloo-products_1d2bf0a1-9d87-4247-bc8a-0557d3f6a9fd.jpg?v=1733464201",
+            "options": [
+                "Title"
+            ],
+            "media": [
+                {
+                    "alt": null,
+                    "id": 27903429543477,
+                    "position": 1,
+                    "preview_image": {
+                        "aspect_ratio": 0.742,
+                        "height": 718,
+                        "width": 533,
+                        "src": "//b06e-arijit.myshopify.com/cdn/shop/files/1igloo-products_1d2bf0a1-9d87-4247-bc8a-0557d3f6a9fd.jpg?v=1733464201"
+                    },
+                    "aspect_ratio": 0.742,
+                    "height": 718,
+                    "media_type": "image",
+                    "src": "//b06e-arijit.myshopify.com/cdn/shop/files/1igloo-products_1d2bf0a1-9d87-4247-bc8a-0557d3f6a9fd.jpg?v=1733464201",
+                    "width": 533
+                }
+            ],
+            "requires_selling_plan": false,
+            "selling_plan_groups": [],
+            "content": ""
+        }
+    ]
+}

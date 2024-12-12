@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart Drawer</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- header start -->
+    <section class="shop">
+        <div class="shop__header">
+            <h2 class="shop__title">Cart Drawer</h2>
+            <p class="shop__text">
+                <a href="#" class="button js-toggle-cart" title="View Cart">
+                    View Cart
+                </a>
+            </p>
+        </div>
+    </section>
+    <!-- header end -->
+
+    <!-- Cart Drawer start -->
+    <section class="cart js-cart hidden">
+        <div class="cart__header">
+            <h2 class="cart__title">
+                Your Bag
+            </h2>
+            <div class="cart__details">
+                <span class="cart__items">2 Items</span>
+                <span class="bar">|</span>
+                <span class="cart__total">Rs 600/-</span>
+                <!-- <span class="cart__text">
+                    <a href="#" class="button button--light js-toggle-cart" title="Close cart">
+                        x
+                    </a>
+                </span> -->
+                <button class="cart__close-btn js-toggle-cart" ">
+                <img src="./assets/img/close.png" alt="Close cart">
+                </button>
+            </div>
+           
+           
+        </div>
+        <section class="cart__products js-cart-products">
+            <!-- Progress bar start -->
+            <div class="progress-container">
+                <div class="step">
+                  <div class="step-circle active"><span class="checkmark"><img src="./assets/img/check.png" alt="Checkmark"></span></div>
+                  <!-- <div class="step-line active"></div> -->
+                  <div class="progress-bar-container">
+                    <div class="progress-bar"></div>
+                </div>
+                  <div class="step-text">Free Shipping<br>Above Rs 1000</div>
+                </div>
+                <div class="step">
+                  <div class="step-circle"><span class="number">2</span></div>
+                  <div class="progress-bar-container">
+
+                </div>
+                  <div class="step-text">10% Discount<br>Above Rs 2000</div>
+                </div>
+                <div class="step">
+                  <div class="step-circle"><span class="number">3</span></div>
+                  <div class="step-text">20% Discount<br>Above Rs 4000</div>
+                </div>
+            </div>
+            <!-- Progress bar end -->
+             <!-- cart box start-->
+              <div id="cart-items-container"></div>
+             <!-- cart box end -->
+              <!-- coupon start -->
+              <div class="coupon-container">
+                <input
+                  type="text"
+                  class="coupon-input"
+                  placeholder="Apply your Coupons"
+                />
+                <button class="apply-button">APPLY</button>
+              </div>
+              <!-- coupon end -->
+               <!-- like this -->
+               <div class="recommendations-container">
+                <h2>YOU MIGHT ALSO LIKE</h2>
+            
+               <!-- card-conatiner -->
+              <div class="card-container" id="product-container">
+                <!-- Product cards will be inserted here dynamically -->
+            </div>
+               <!-- like this -->
+                </div>
+                <!-- gifting -->
+                <div class="gifting-container">
+                    <div class="gifting-text">GIFTING THIS ORDER</div>
+                    <div class="gift-note">
+                      <input type="checkbox" id="gift-note" />
+                      <label for="gift-note">Add a gift note</label>
+                    </div>
+                  </div>
+                <!-- gifting -->
+        </section>
+        <div class="cart__footer">
+            <div class="checkout-container">
+                <div class="checkout-row">
+                    <span class="label">Discount on MRP</span>
+                    <span class="value" id="discount-value">Rs 0.00 /-</span>
+                </div>
+                <div class="checkout-row">
+                    <span class="label bold">Total</span>
+                    <span class="value bold" id="total-value">Rs 0.00 /-</span>
+                </div>
+                <button class="checkout-button">Checkout</button>
+            </div>
+        </div>
+        
+    </section>
+    <!--  -->
+
+    <!-- lightbox start -->
+    <div class="lightbox js-lightbox"></div>
+    <!-- lightbox end -->
+
+    <!-- script -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="assets/script.js"></script>
+</body>
+</html>
